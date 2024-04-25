@@ -34,6 +34,6 @@ This repository contains a collection of projects developed as part of CSE-471 I
 To run these projects, you will need Python and some specific libraries, depending on the project. Clone the repository, navigate to the project directory, and install the required dependencies. Instructions to download MiniSAT can be found in the specification document for the logic agent.
 
 ```bash
-git clone https://github.com/your-username/ai-coursework-projects.git
-cd ai-coursework-projects
+git clone https://github.com/moreshwarnabar/artificial-intelligence-agents.git
+cd artificial-intelligence-agents
 ```
